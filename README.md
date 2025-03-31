@@ -7,7 +7,7 @@
 # 소개
 
 1. Final_Code_dacon : 데이터 분석
-2. 대회 성적 : Dacon 최종 11위
+2. 대회 성적 : Dacon 최종 14위
 3. 사용 언어 : Python
 4. 모델 : LGBM + Cat Boost
 
